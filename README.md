@@ -28,7 +28,6 @@ This project helped me understand user management, Group Policy, Windows event l
 | Client | Windows 10 |
 | Domain | `corp.local` |
 | Hypervisor | VirtualBox |
-| SIEM | Splunk Enterprise |
 
 ---
 
