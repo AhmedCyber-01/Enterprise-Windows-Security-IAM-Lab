@@ -16,10 +16,9 @@ This project helped me understand user management, Group Policy, Windows event l
 - Role-Based Access Control (RBAC)
 - Group Policy configuration
 - Windows Security Event monitoring
-- Splunk log analysis
-- Basic PowerShell automation
 
----
+  
+----
 
 ## Environment
 
@@ -40,8 +39,6 @@ This project helped me understand user management, Group Policy, Windows event l
 - Windows 10
 - Active Directory Domain Services (AD DS)
 - Group Policy Management Console (GPMC)
-- Splunk Enterprise
-- Splunk Universal Forwarder
 - PowerShell
 
 ---
