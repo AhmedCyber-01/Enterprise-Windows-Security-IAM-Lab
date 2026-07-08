@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
+
+# Lab-specific - never commit real credentials or exported AD data
+*.csv
+*.pfx
+*.pem
